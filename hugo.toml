@@ -2,7 +2,7 @@ title = "Ian's blog"
 baseURL = "https://www.ianrobertson.blog"
 languageCode = "en-us"
 copyright = ""
-publishDir = "docs"
+# publishDir = "docs"
 theme = "solar"
 [params]
   scheme = "light" # light, dark, gray or preference
